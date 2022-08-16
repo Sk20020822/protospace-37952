@@ -33,7 +33,7 @@ Things you may want to cover:
 | encrypted_password | string | null: false               |
 | name               | string | null: false               |
 | profile            | text   | null: false               |
-| occuption          | text   | null: false               |
+| occupation          | text   | null: false               |
 | position           | text   | null: false               |
 
 - has_many :prototypes
